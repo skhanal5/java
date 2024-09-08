@@ -100,4 +100,3 @@ After refactoring:
 	* Write test code before writing the production code 
 	* If you write tests after the code, it might be hard to write test code
 		* Perhaps the prod code isn't written in a testable manner
-* 
