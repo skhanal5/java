@@ -42,9 +42,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fd0ec2d4bf5678d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven/Maven Failsafe Plugin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4e3a6397d6b553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven/Maven Failsafe Plugin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c96320ea51c050b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven/Maven Failsafe Plugin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Keeping Tests Clean.md",
+                "file": "Maven/Maven Failsafe Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Keeping Tests Clean.md",
+                "file": "Maven/Maven Failsafe Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Keeping Tests Clean.md"
+                "file": "Maven/Maven Failsafe Plugin.md"
               }
             }
           },
@@ -180,12 +216,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42a77482006e571d",
+  "active": "6c96320ea51c050b",
   "lastOpenFiles": [
-    "Testing/Test Driven Development.md",
+    "Maven/Maven Surefire Plugin.md",
+    "Maven/Maven Failsafe Plugin.md",
+    "Maven/Maven Lifecycle.md",
+    "Maven",
     "Testing/Keeping Tests Clean.md",
+    "Testing/Test Driven Development.md",
     "README.md",
-    "Untitled",
     "Testing"
   ]
 }
