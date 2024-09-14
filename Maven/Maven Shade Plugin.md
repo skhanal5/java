@@ -21,6 +21,37 @@
 	* Share plugin handles this by renaming usage of one `Bar` version
 		* E.g. `Bar 1.0` will have its classes named from `com.bar` to `com.foo.bar`
 	*  Now, `Baz` can use `Bar 2.0` safely
+### Configuration Options
+#### Include/Exclude (catch all rule)
+* Pick and choose what artifacts you want to include/exclude
+```xml
+<artifactSet>
+	<includes>
+		<include>...</include>
+	</includes>
+	<excludes>
+		<exclude>
+		</exclude>
+	</excludes>
+</artifactSet>
+```
+#### Include/Exclude (granular)
+* Pick and choose what classes/file you don't want to include from a particular artifact
+	* Usually used to remove other files attached to a 
+```xml
+<filters>
+	<filter>
+		<artifact>...</artifact>
+		<excludes>
+			<exclude>...</exclude>
+		</excludes>
+		<artifact>...</artifact>
+		<includes>
+			<include>...</include>
+		</includes>
+	</filter>
+</filters>
+```
 ### Resources
 1. [Maven Shade Plugin Documentation](https://maven.apache.org/plugins/maven-shade-plugin/)
 2. [Maven Shade Plugin SO Post](https://stackoverflow.com/questions/13620281/what-is-the-maven-shade-plugin-used-for-and-why-would-you-want-to-relocate-java)
