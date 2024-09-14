@@ -1,3 +1,4 @@
+**Note**: Only able to use in Java 17 or above
 ### About
 - Records are classes that serve to be used as a model class (think POJO)
 - Denoted by keyword `record` in place of `class`
