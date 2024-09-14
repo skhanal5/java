@@ -47,6 +47,6 @@
 * **Important:** Adding the plugin is not enough, you need to tell the plugin which goals you want to invoke\
 * The goals you pick will be bound to the goals that are included in the packaging you picked
 	* plugin goals + packaging goals -> packaging phases -> packaging lifecycle
-	* By default, the packaging goals are triggered first if you also bind a goal to the same phase
+	* By default, the packaging goals are triggered first if you also bind a plugin goal to the same phase
 ### Resources
 1. [Maven Lifecycle Documentation](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
