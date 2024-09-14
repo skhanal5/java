@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/Maven Shade Plugin.md",
+                "file": "Maven/Maven Lifecycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/Maven Shade Plugin.md",
+                "file": "Maven/Maven Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven/Maven Shade Plugin.md",
+                "file": "Maven/Maven Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven/Maven Shade Plugin.md"
+                "file": "Maven/Maven Lifecycle.md"
               }
             }
           },
@@ -157,11 +157,11 @@
   },
   "active": "58c6f8f43cc8e9e3",
   "lastOpenFiles": [
-    "Maven/Maven Failsafe Plugin.md",
+    "Maven/Maven Surefire Plugin.md",
     "Maven/Maven Lifecycle.md",
     "Maven/Maven Shade Plugin.md",
+    "Maven/Maven Failsafe Plugin.md",
     "Features/Records.md",
-    "Maven/Maven Surefire Plugin.md",
     "Features",
     "README.md",
     "Maven",
