@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f761c4cf4118b30f",
+        "id": "156d8acb546548de",
         "type": "tabs",
         "children": [
           {
-            "id": "b4db271faf42318a",
+            "id": "b65e2c14cfe7d169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Exceptions/Best Practices.md",
+                "file": "Features/Functional Programming/Consumer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Exceptions/Best Practices.md",
+                "file": "Features/Functional Programming/Consumer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Exceptions/Best Practices.md",
+                "file": "Features/Functional Programming/Consumer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Exceptions/Best Practices.md"
+                "file": "Features/Functional Programming/Consumer.md"
               }
             }
           },
@@ -155,14 +155,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4db271faf42318a",
+  "active": "b65e2c14cfe7d169",
   "lastOpenFiles": [
-    "Features/Exceptions/Checked Exception.md",
+    "Features/Functional Programming/Functional Interface.md",
+    "Features/Functional Programming/Predicate.md",
+    "Features/Functional Programming/Supplier.md",
+    "Features/Functional Programming/Function.md",
+    "Features/Functional Programming/Consumer.md",
+    "Features/Records.md",
+    "Features/Functional Programming/Single Abstract Method.md",
     "Features/Exceptions/Best Practices.md",
+    "Features/Exceptions/Checked Exception.md",
     "Features/Exceptions/Unchecked Exception.md",
     "README.md",
     "Testing/Mockito/Annotations/@InjectMocks.md",
-    "Features/Records.md",
     "Features/Exceptions",
     "Patterns/TODO.md",
     "Testing/Mockito/Spying.md",
@@ -175,20 +181,14 @@
     "Testing/Mockito/Argument Matchers.md",
     "Testing/Mockito/Best Practices.md",
     "Testing/Mockito/Mocking.md",
-    "Features/Functional Programming/Functional Interface.md",
     "Features/Untitled",
     "Features/Functional Programming/SAM Types.md",
-    "Features/Functional Programming/Single Abstract Method.md",
     "Features/Functional Programming",
     "Testing/Performance Testing/Running Perf Tests With JMeter.md",
     "Testing/Performance Testing/Types of Performance Testing.md",
     "Patterns",
     "Testing/Performance Testing/JMeter Configuration.md",
-    "Features/Functional Programming/BiPredicate.md",
     "Testing/Mockito",
-    "Testing/Test Driven Development.md",
-    "Testing/Keeping Tests Clean.md",
-    "Testing/Performance Testing/Untitled.md",
     "Testing/Performance Testing",
     "Features",
     "Maven",
