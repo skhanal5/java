@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e5d57c961d951d2",
+        "id": "f761c4cf4118b30f",
         "type": "tabs",
         "children": [
           {
-            "id": "5742b848c2dd479c",
+            "id": "b4db271faf42318a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing/Mockito/Annotations/@InjectMocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80c116ec4f69cda4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Mockito/Spying.md",
+                "file": "Features/Exceptions/Best Practices.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Mockito/Spying.md",
+                "file": "Features/Exceptions/Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Mockito/Spying.md",
+                "file": "Features/Exceptions/Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Mockito/Spying.md"
+                "file": "Features/Exceptions/Best Practices.md"
               }
             }
           },
@@ -168,16 +155,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "80c116ec4f69cda4",
+  "active": "b4db271faf42318a",
   "lastOpenFiles": [
+    "Features/Exceptions/Checked Exception.md",
+    "Features/Exceptions/Best Practices.md",
+    "Features/Exceptions/Unchecked Exception.md",
+    "README.md",
+    "Testing/Mockito/Annotations/@InjectMocks.md",
+    "Features/Records.md",
+    "Features/Exceptions",
+    "Patterns/TODO.md",
+    "Testing/Mockito/Spying.md",
     "Testing/Mockito/Start Here.md",
     "Testing/Mockito/Annotations/@Captor.md",
     "Testing/Mockito/Annotations/@Spy.md",
     "Testing/Mockito/Annotations/@Mock.md",
-    "Testing/Mockito/Annotations/@InjectMocks.md",
     "Testing/Mockito/Annotations",
     "Testing/Mockito/Argument Captor.md",
-    "Testing/Mockito/Spying.md",
     "Testing/Mockito/Argument Matchers.md",
     "Testing/Mockito/Best Practices.md",
     "Testing/Mockito/Mocking.md",
@@ -188,7 +182,6 @@
     "Features/Functional Programming",
     "Testing/Performance Testing/Running Perf Tests With JMeter.md",
     "Testing/Performance Testing/Types of Performance Testing.md",
-    "Patterns/TODO.md",
     "Patterns",
     "Testing/Performance Testing/JMeter Configuration.md",
     "Features/Functional Programming/BiPredicate.md",
@@ -196,12 +189,7 @@
     "Testing/Test Driven Development.md",
     "Testing/Keeping Tests Clean.md",
     "Testing/Performance Testing/Untitled.md",
-    "Maven/Maven Surefire Plugin.md",
     "Testing/Performance Testing",
-    "Maven/Maven Shade Plugin.md",
-    "Maven/Maven Lifecycle.md",
-    "Maven/Maven Failsafe Plugin.md",
-    "Features/Records.md",
     "Features",
     "Maven",
     "Testing"
