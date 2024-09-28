@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "1235997ee139ba2a",
+        "id": "f231cab63f557387",
         "type": "tabs",
         "children": [
           {
-            "id": "8215654d2219ba57",
+            "id": "1a48c22cd1f0169b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Concurrent/Executor.md",
+                "file": "Features/Concurrent/Prerequisites/Thread Pools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d1674c320206844",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Features/Concurrent/Table of Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Concurrent/Executor.md",
+                "file": "Features/Concurrent/Prerequisites/Thread Pools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Concurrent/Executor.md",
+                "file": "Features/Concurrent/Prerequisites/Thread Pools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Concurrent/Executor.md"
+                "file": "Features/Concurrent/Prerequisites/Thread Pools.md"
               }
             }
           },
@@ -155,43 +167,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8215654d2219ba57",
+  "active": "1a48c22cd1f0169b",
   "lastOpenFiles": [
-    "Features/Concurrent/Runnable.md",
+    "Features/Concurrent/Basics/Callable.md",
+    "Features/Concurrent/Table of Contents.md",
+    "Features/Concurrent/Prerequisites/Thread Pools.md",
+    "Features/Concurrent/Prerequisites",
+    "Features/Concurrent/Expanding Upon Basics/Thread Pool Executor.md",
+    "Features/Concurrent/Basics/Creating Threads.md",
+    "Features/Concurrent/Basics/ExecutorService.md",
+    "Features/Concurrent/Expanding Upon Basics/Scheduled Thread Pool Executor.md",
+    "Features/Concurrent/Expanding Upon Basics",
+    "Features/Concurrent/Basics/Executor.md",
+    "Features/Concurrent/Basics",
+    "Features/Refresh",
+    "Features/Concurrent/Resources.md",
+    "Features/Concurrent/Basics/Future.md",
+    "Features/Concurrent/Basics/Runnable.md",
+    "Features/Exceptions/Checked Exception.md",
+    "Features/Generics",
     "Features/Concurrent/Untitled 2.md",
     "Features/Concurrent/Untitled 1.md",
-    "Features/Concurrent/Executor.md",
-    "Features/Concurrent/Future.md",
     "Features/Functional Programming/Functional Interface.md",
     "Features/Functional Programming/Predicate.md",
     "Features/Functional Programming/Function.md",
     "Features/Functional Programming/Consumer.md",
-    "Features/Concurrent/Resources.md",
     "README.md",
     "Features/Concurrent",
     "Features/Functional Programming/Supplier.md",
     "Features/Records.md",
     "Features/Functional Programming/Single Abstract Method.md",
     "Features/Exceptions/Best Practices.md",
-    "Features/Exceptions/Checked Exception.md",
     "Features/Exceptions/Unchecked Exception.md",
     "Testing/Mockito/Annotations/@InjectMocks.md",
     "Features/Exceptions",
-    "Patterns/TODO.md",
-    "Testing/Mockito/Spying.md",
-    "Testing/Mockito/Start Here.md",
-    "Testing/Mockito/Annotations/@Captor.md",
-    "Testing/Mockito/Annotations/@Spy.md",
-    "Testing/Mockito/Annotations/@Mock.md",
     "Testing/Mockito/Annotations",
-    "Testing/Mockito/Argument Captor.md",
-    "Testing/Mockito/Argument Matchers.md",
     "Features/Functional Programming",
-    "Patterns",
-    "Testing/Mockito",
-    "Testing/Performance Testing",
-    "Features",
-    "Maven",
-    "Testing"
+    "Patterns"
   ]
 }
