@@ -8,5 +8,5 @@
 4. [[Future]]
 5. [[ExecutorService]]
 ### Expanding Upon Basics
-1. [[Thread Pool Executor]]
-2. [[Scheduled Thread Pool Executor]]
+1. [[ThreadPoolExecutor]]
+2. [[ScheduledThreadPool Executor]]
