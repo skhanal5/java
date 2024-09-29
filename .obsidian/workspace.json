@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Concurrent/Collections/Collections vs Synchronized.md",
+                "file": "Features/Concurrent/Basics/Thread.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Features/Concurrent/Table of Contents.md",
+                "file": "Features/Concurrent/Basics/Thread.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Features/Concurrent/Collections/Collections vs Synchronized.md",
+                "file": "Features/Concurrent/Basics/Thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Features/Concurrent/Collections/Collections vs Synchronized.md",
+                "file": "Features/Concurrent/Basics/Thread.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Features/Concurrent/Collections/Collections vs Synchronized.md"
+                "file": "Features/Concurrent/Basics/Thread.md"
               }
             }
           },
@@ -167,25 +168,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a48c22cd1f0169b",
+  "active": "6d1674c320206844",
   "lastOpenFiles": [
+    "Features/Concurrent/Basics/Daemon Threads.md",
+    "Features/Concurrent/Basics/Thread.md",
+    "Features/Concurrent/Basics/Executor.md",
+    "Features/Concurrent/Basics/Callable.md",
+    "Features/Concurrent/Basics/Runnable.md",
+    "Features/Concurrent/Basics/Creating Threads.md",
+    "Features/Concurrent/Prerequisites/Thread Pools.md",
     "Features/Concurrent/Table of Contents.md",
+    "Features/Concurrent/Prerequisites/Thread.md",
+    "Features/Concurrent/Prerequisites/Daemons.md",
+    "Features/Concurrent/Collections/Collections vs Synchronized.md",
     "Features/Concurrent/Expanding Upon Basics/ThreadPoolExecutor.md",
     "Features/Concurrent/Expanding Upon Basics/ScheduledThreadPool Executor.md",
-    "Features/Concurrent/Collections/Collections vs Synchronized.md",
     "Features/Concurrent/Collections",
-    "Features/Concurrent/Prerequisites/Thread Pools.md",
-    "Features/Concurrent/Basics/Callable.md",
     "Features/Concurrent/Prerequisites",
-    "Features/Concurrent/Basics/Creating Threads.md",
     "Features/Concurrent/Basics/ExecutorService.md",
     "Features/Concurrent/Expanding Upon Basics",
-    "Features/Concurrent/Basics/Executor.md",
     "Features/Concurrent/Basics",
     "Features/Refresh",
     "Features/Concurrent/Resources.md",
     "Features/Concurrent/Basics/Future.md",
-    "Features/Concurrent/Basics/Runnable.md",
     "Features/Exceptions/Checked Exception.md",
     "Features/Generics",
     "Features/Concurrent/Untitled 2.md",
@@ -198,10 +203,6 @@
     "Features/Concurrent",
     "Features/Functional Programming/Supplier.md",
     "Features/Records.md",
-    "Features/Functional Programming/Single Abstract Method.md",
-    "Features/Exceptions/Best Practices.md",
-    "Features/Exceptions/Unchecked Exception.md",
-    "Testing/Mockito/Annotations/@InjectMocks.md",
     "Features/Exceptions",
     "Testing/Mockito/Annotations",
     "Features/Functional Programming"
